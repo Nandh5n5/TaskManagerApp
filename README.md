@@ -5,11 +5,44 @@ Tasks can be marked as "New," "In Progress," or "Completed." Users can update th
 The app features a clean and responsive user interface, making it easy for users to navigate and interact with their to-do list.
 
 
-step:1 install android studio.
+Due Date: Each task should have a due date. 
 
-step:2create new project using empty activity.
+Priority Levels: Assign priority to tasks as Low, Medium, or High. 
+
+Category: Ability to categorize tasks. 
+
+Task Status: Mark tasks as New, In Progress, or Completed. 
+
+Title and Description: Each task should have a title and a detailed description. 
+
+Local Storage: The app should use local storage to save tasks. 
+
+
+step 1: Install android studio.
+
+step 2: Create new project using empty activity.
 
 
 ![image](https://github.com/Nandh5n5/TaskManagerApp/assets/94433310/5046fa00-9058-4847-a7c0-1b1198a3f8df)
+
+step 3: Then creating class and xml files.It contains the key featurs of app.
+
+![image](https://github.com/Nandh5n5/TaskManagerApp/assets/94433310/051f8d40-69b0-4bb4-8ec9-b6aedb8991a1)
+
+ Now begin working on the app, click on the “ + ” button on the top right:
+
+ ![image](https://github.com/Nandh5n5/TaskManagerApp/assets/94433310/2d7185b4-2560-43a3-b7de-d7a120326fc4)
+
+  Now, here you can type the task that you want to add:
+
+![image](https://github.com/Nandh5n5/TaskManagerApp/assets/94433310/f33be783-0ed0-42a1-91d8-f31b1dac6761)
+
+Now, to remove the completed task from the task list, simply click on the Task Completed button, as follows:
+
+![image](https://github.com/Nandh5n5/TaskManagerApp/assets/94433310/f86da1b8-eb20-4f91-9a92-c705b400cf76)
+
+
+
+ 
 
 

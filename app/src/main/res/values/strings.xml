@@ -1,0 +1,11 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="priority">Priority</string>
+    <string name="category">Category</string>
+    <string name="status">Status</string>
+    <string name="complete">Complete</string>
+</resources>
+
